@@ -9,5 +9,5 @@
 
 ### 📫 How to reach me:
 
-- Website: [filippo.red](https://daishiky.dev/)
-- Twitter: [@notfilippo](https://twitter.com/Daishiky_)
+- Website: [daishiky.dev](https://daishiky.dev/)
+- Twitter: [@Daishiky_](https://twitter.com/Daishiky_)
