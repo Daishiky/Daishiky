@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
-Hi traveler, i'm Mario (known as Daishiky), i like creating new things using Python mainly.
+
+Hi traveler, i'm Mario (known as seizoux, GitHub username not updated), i just enjoy things that occupy me.
 I've been coding since `11 January 2021`, my first project is <a href="https://amibot.gg/">this one!</a>
 
 ### 📫 Get in touch:
 
-- Website: [daishiky.dev](https://daishiky.dev/)
-- Twitter: [@Daishiky_](https://twitter.com/Daishiky_)
+- Discord: [💃 SLURP CREW](https://discord.gg/slurpcrew)
 
 ## GitHub Stats
 [![Daishiky's GitHub](https://github-readme-stats.vercel.app/api?username=Daishiky&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
